@@ -91,7 +91,9 @@
       <property name="tokens" value="INC, DEC, UNARY_MINUS, UNARY_PLUS, BNOT, LNOT, DOT, ARRAY_DECLARATOR, INDEX_OP"/>
     </module>
     <module name="NoWhitespaceBefore"/>
-    <module name="OperatorWrap"/>
+    <module name="OperatorWrap">
+        <property name="option" value="eol"/>
+    </module>
     <module name="ParenPad"/>
     <module name="SeparatorWrap">
       <property name="tokens" value="COMMA"/>
