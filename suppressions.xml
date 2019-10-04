@@ -1,7 +1,4 @@
 <?xml version="1.0"?>
 <!DOCTYPE suppressions PUBLIC "-//Puppy Crawl//DTD Suppressions 1.1//EN" "http://www.puppycrawl.com/dtds/suppressions_1_1.dtd">
 <suppressions>
-	<suppress checks="MagicNumberCheck" files="Tests\.java$"/>
-	<suppress checks="AvoidNestedBlocks" files="Tests\.java$"/>
-	<suppress checks="MagicNumberCheck" files=".*Mock.*\.java"/>
 </suppressions>
