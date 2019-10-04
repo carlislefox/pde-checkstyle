@@ -120,6 +120,6 @@
   </module>
   <module name="UniqueProperties"/>
   <module name="SuppressionFilter">
-    <property name="file" value="checkstyle/suppressions.xml"/>
+    <property name="file" value="suppressions.xml"/>
   </module>
 </module>
