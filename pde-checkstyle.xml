@@ -51,7 +51,6 @@
     <module name="NoFinalizer"/>
     <module name="OneStatementPerLine"/>
     <module name="PackageDeclaration"/>
-    <module name="ParameterAssignment"/>
     <module name="SimplifyBooleanExpression"/>
     <module name="SimplifyBooleanReturn"/>
     <module name="StringLiteralEquality"/>
