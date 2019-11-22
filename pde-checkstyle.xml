@@ -42,6 +42,7 @@
       <property name="ignoreConstructorParameter" value="true"/>
       <property name="ignoreSetter" value="true"/>
       <property name="setterCanReturnItsClass" value="true"/>
+      <property name="tokens" value="VARIABLE_DEF"/>
     </module>
     <module name="IllegalThrows"/>
     <module name="InnerAssignment"/>
